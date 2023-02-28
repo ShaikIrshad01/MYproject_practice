@@ -34,7 +34,7 @@ public class Sample_1 {
 //	String s=String.join(", ", fruits);
 //	System.out.println(s);
 
-
+// System.out.println();
 		
 //		int c=0,a,temp;  
 //		   int n=153;//It is the number to check Armstrong  
@@ -114,29 +114,6 @@ public class Sample_1 {
 			
 //		}
 //		System.out.println(mapp);
-		
-		
-		
-		
-		
-				// Creating an object of Set class 
-        // Declaring object of Integer type 
-		
-//        Set<Integer> a = new HashSet<Integer>();
-//        
-//        // Adding all elements to List 
-//        a.addAll(Arrays.asList(
-//            new Integer[] { 1, 3, 2, 4, 8, 9, 0 }));
-//        
-//      // Again declaring object of Set class
-//      // with reference to HashSet
-//        Set<Integer> b = new HashSet<Integer>();
-//          
-//      b.addAll(Arrays.asList(
-//            new Integer[] { 1, 3, 7, 5, 4, 0, 7, 5 }));
-		
-		
-		
 		
 		
 		

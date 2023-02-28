@@ -15,6 +15,7 @@ public class Patterns {
 		triangle4();
 		System.out.println("-------------");
 		triangle5();
+		System.out.println("end");
 	}
 	
 	
@@ -84,23 +85,6 @@ public class Patterns {
 	}
 
 
-	public static void triangle5_1() {
-		for (int i = 0; i <7; i++) {
-			for (int j = 0; j <7; j++) {
-				/*
-*******
-*******
-*******
-*** ***
-**   **
-*     *
-     	 */
-				if (i+j>=6&&i>=j)System.out.print(" ");
-				else System.out.print("*");
-			}
-			System.out.println();	
-		}
-	}
 
 	public static void triangle4() {
 		for (int i = 0; i <7; i++) {
